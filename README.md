@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @JoshuaScalesData
-- 👀 I’m interested in ...Flutter Mobile Development 
-- 🌱 I’m currently learning ...Ways to enhance flutter plugins 
+- 👀 I’m committed in ...Flutter Mobile Development
+- 👀 I’m committed in ...iOS Mobile Development
+- 👀 I’m committed in ...Android Mobile Development 
+- 🌱 I’m currently learning ..Backend Development In Java
+-  👀 I’m interested in ...Blockchain 
 - 💞️ I’m looking to collaborate on ...Any and Everything 
 - 📫 How to reach me ...
 
